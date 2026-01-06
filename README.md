@@ -149,8 +149,10 @@ Suggested uses are as follows. We recommend using [Prettier](https://npmjs.com/p
 > {
 >   "compilerOptions": {
 >     "strict": true,
+>     "declaration": true,
 >     "esModuleInterop": true,
 >
+>     "outDir": "./dist",
 >     "target": "ESNext",
 >     "module": "ESNext",
 >     "moduleResolution": "bundler",
