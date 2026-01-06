@@ -1,3 +1,3 @@
 export * from './utils/Rulint.util';
 
-export type * from './barrels/Types.barrel';
+export type * from './exports/Types.export';
