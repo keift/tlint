@@ -1,6 +1,6 @@
 import merge from 'lodash.merge';
 
-import { PulintOptionsDefault } from '../defaults/PulintOptions.default';
+import { PulintOptionsDefault } from '../defaults/RulintOptions.default';
 
 import type { ESLintConfig } from '../types/ESLintConfig.type';
 import type { PulintOptions } from '../types/PulintOptions.type';

@@ -1,3 +1,3 @@
-import { pulint } from './src/main';
+import { rulint } from './src/main';
 
-export default pulint();
+export default rulint();
