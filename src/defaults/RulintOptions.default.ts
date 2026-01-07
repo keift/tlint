@@ -77,7 +77,7 @@ export const js_rules: { configs: ESLintConfig['rules']; custom: ESLintConfig['r
       },
       {
         selector: "CallExpression[callee.property.name='then']",
-        message: 'Use async/await instead.'
+        message: 'Use await instead.'
       },
       {
         selector: "CallExpression[callee.property.name='catch']",
